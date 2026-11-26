@@ -5,7 +5,7 @@ App web para revisar pedidos escaneando códigos de barra desde el celular.
 ## Archivos
 
 - `index.html`: pantalla de la app (se publica con GitHub Pages).
-- `apps-script/Code.gs`: motor en Google Apps Script (consulta Bsale, hoja de bodega, registro de revisiones). Es solo referencia: el código activo vive en el proyecto "Revisión de pedidos OXS" de Apps Script.
+- El motor (Google Apps Script) no se guarda en este repositorio público: vive solo en el proyecto "Revisión de pedidos OXS" de Apps Script.
 
 ## Publicar en GitHub Pages
 
